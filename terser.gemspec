@@ -16,7 +16,7 @@ Gem::Specification.new do |spec|
     TerserJS to be accessible in Ruby"
   spec.license = "MIT"
 
-  spec.required_ruby_version = '>= 2.3.0'
+  spec.required_ruby_version = '>= 2.1.1'
 
   spec.extra_rdoc_files = [
     "LICENSE.txt",
